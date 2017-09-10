@@ -14,6 +14,8 @@ categories: postclassical-africa
 
 ## Great Zimbabwe: Swahili Coast Trading Network
 
+![trade]
+
 * located in southeastern Africa
   * strategically surrounded by rivers to facilitate transportation
 * postclassical era
@@ -106,6 +108,7 @@ categories: postclassical-africa
 
 
 
+[trade]: http://users.rowan.edu/~mcinneshin/101/wk11/images/zimgold.jpg
 [tower]: https://upload.wikimedia.org/wikipedia/commons/c/cd/Tower%2C_Great_Zimbabwe1.jpg
 [plan]: https://qph.ec.quoracdn.net/main-qimg-960e82f0a257c235cec52527c74f15f6-c
 [chikuva]: https://tishfarrell.files.wordpress.com/2014/03/img_0889.jpg
