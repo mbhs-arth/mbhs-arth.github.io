@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Camelid sacrum in shape of a canine
-date: 2017-09-10
+date: 2017-09-10 00:02
 categories: prehistoric-americas
 ---
 

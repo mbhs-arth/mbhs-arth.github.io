@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nkisi n'kondi
-date: 2017-09-10
+date: 2017-09-10 00:17
 ---
 
 ![nkisi-nkondi]

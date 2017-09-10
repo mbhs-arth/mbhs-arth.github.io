@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apollo 11 Rocks
-date: 2017-09-10
+date: 2017-09-10 00:00
 categories: african-prehistory
 ---
 

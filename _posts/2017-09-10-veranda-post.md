@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Veranda post of enthroned king and senior wife
-date: 2017-09-10
+date: 2017-09-10 00:11
 ---
 
 * Veranda post of enthroned king and senior wife

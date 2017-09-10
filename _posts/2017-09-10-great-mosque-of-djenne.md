@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Mosque of Djenné
-date: 2017-09-10
+date: 2017-09-10 00:07
 categories: postclassical-africa
 ---
 

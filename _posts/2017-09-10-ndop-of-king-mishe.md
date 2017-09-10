@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ndop of King Mishe
-date: 2017-09-10
+date: 2017-09-10 00:09
 ---
 
 ![ndop-king-mishe]
