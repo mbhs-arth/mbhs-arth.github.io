@@ -12,7 +12,7 @@ categories: postclassical-africa
 * adobe
 * Mali
 
-# Context
+## Context
 * region is Western Sudan
 * result of mixing cultures during Arab colonization of North Africa
 * mud was the traditional building material in Mali
@@ -21,7 +21,7 @@ categories: postclassical-africa
   * established between 800 and 1100 CE
 
 
-## Religious Significance
+# Religious Significance
 
 * built when the ruler of Djenne reverted to Islam
 * masjid (mosque, Islamic place of worship)
@@ -31,7 +31,7 @@ categories: postclassical-africa
 * created to accomodate large number of people for Friday prayers
   * (Friday is the holy day of the week in Islam)
 
-# Architectural Features
+## Architectural Features
 
 * adobe material
   * mixture of mud and straw
@@ -63,6 +63,9 @@ categories: postclassical-africa
     * symbolize purity and fertility
 
 ## Cultural Crepissage
+
+![crepissage]
+
 * annual cultural activity of replastering walls
   * adobe material is temporal and requires upkeep
   * community is brought together in activity
@@ -78,3 +81,4 @@ categories: postclassical-africa
 
 [wall]: https://upload.wikimedia.org/wikipedia/commons/2/28/Old_Towns_of_Djenn%C3%A9-107934.jpg
 [minarets]: https://upload.wikimedia.org/wikipedia/commons/c/c1/Great_Mosque_of_Djenn%C3%A9_3_%28cropped%29.jpg
+[crepissage]: http://1.bp.blogspot.com/-U4ifcZbQ3T8/Uu53SS0BMTI/AAAAAAAAFR0/d1vReZc873E/s1600/Timothy-Allen-3.jpg
