@@ -23,6 +23,8 @@ date: 2017-09-10 00:09
   * greatly glorified through history
 * councils advise the "nyim"
 
+![nyim]
+
 ## Ndop figures
 * King Mishe was a celebrated king in early 18th century
   * known for generosity and loyal subjects
@@ -51,3 +53,4 @@ date: 2017-09-10 00:09
 * the Bushoong visor crown is the rectangular prism on the head
 
 [ndop-king-mishe]: https://upload.wikimedia.org/wikipedia/commons/5/59/Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul.jpg
+[nyim]: https://i.pinimg.com/564x/fa/42/4c/fa424c7ae059a05301df675761e27525.jpg
