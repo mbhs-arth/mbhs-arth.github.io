@@ -4,7 +4,7 @@ title: Sika dwa kofi
 date: 2017-09-10 00:08
 ---
 
-![golden]
+![people]
 
 * Sika dwa kofi
 * wood
@@ -54,7 +54,6 @@ date: 2017-09-10 00:08
   * used to bring good luck
   * infuriating ancestors could bring more vigor to the spirits
 
-![people]
 
 ## Golden Stool
 
@@ -81,6 +80,8 @@ date: 2017-09-10 00:08
   * Osei Tutu became first ruler
 * bring prosperity and prevent adversity
 * descended from the sky onto the king's lap with thunder and lightening
+
+![golden]
 
 # Symbolism
 * gold symbolizes the sun and life's vital force "kra"
