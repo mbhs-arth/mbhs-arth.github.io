@@ -4,6 +4,8 @@ title: Sika dwa kofi
 date: 2017-09-10 00:08
 ---
 
+![golden]
+
 * Sika dwa kofi
 * wood
 * Ashante peoples in modern day Ghana
@@ -93,10 +95,8 @@ date: 2017-09-10 00:08
     * other kings were removed in order for Asante peoples to control trade
 * symbolic equivalent of dynastic tree
 
-
-![historical]
-
 [historical]: https://upload.wikimedia.org/wikipedia/commons/a/a3/Golden_stool_31_January_1935.jpg
 [people]: https://i.pinimg.com/736x/eb/cd/f9/ebcdf99df864f3307336ee7fa01e6139.jpg
 [carrying]: http://africa.uima.uiowa.edu/assets/Frank-Fournier/_resampled/SetRatioSize10001000-FRF012.jpg
 [wooden-version]: http://classconnection.s3.amazonaws.com/615/flashcards/857615/png/image21322523082533.png
+[golden]: http://lvrapah.weebly.com/uploads/1/0/0/2/10023052/8751495_orig.jpg
