@@ -2,6 +2,7 @@
 layout: post
 title: Aka elephant mask
 date: 2017-09-10 00:15
+author: Thai Nguyen
 ---
 
 * Aka elephant mask
