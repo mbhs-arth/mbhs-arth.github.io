@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   should be notes on all of the required pieces to study. In addition, it will include important
   context for understanding the pieces.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mbhs-aparth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mbhs-arth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
