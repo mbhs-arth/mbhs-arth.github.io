@@ -10,6 +10,8 @@ author: Sammy Shin
 * Limestone with inlaid shell in eyes
 * Square Temple at Eshnunna (modern Tell Asmar, Iraq)
 
+![votive]
+
 ## Statues of Votive Figures
 * Found in ziggurat temples
   * Mainly placed in cella, found buried beneath the floor of a temple at Eshhunna
@@ -19,3 +21,5 @@ author: Sammy Shin
 
 # Form
 * large eyes to have the ability to look at the gods
+
+[votive]: https://www.flickr.com/photos/profzucker/15324643576/

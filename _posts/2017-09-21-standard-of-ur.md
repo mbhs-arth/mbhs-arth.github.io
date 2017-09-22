@@ -6,7 +6,7 @@ author: Sammy Shin
 ---
 
 * Standard of Ur
-* c. 2600-2400 B.C.E
+* c. 2600 to 2400 B.C.E
 * Wood inlaid with shell, lapis lazuli, and red limestone
 * Royal Tombs at Ur (modern Tell el-Muqayyar, Iraq)
 

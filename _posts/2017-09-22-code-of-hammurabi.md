@@ -6,7 +6,7 @@ author: Sammy Shin
 ---
 
 * The Code of Hammurabi
-* c. 1792 - 1750 B.C.E
+* c. 1792 to 1750 B.C.E
 * Basalt
 * Babylon (modern Iran)
 
