@@ -9,3 +9,8 @@ author: Sammy Shin
 * Fourth Millennium B.C.E
 * Sandstone
 * Arabian Peninsula
+
+## Anthropomorphic Stele  
+* Anthropomorphic - of or relating to humans, having human characteristics
+  * stylized and abstract
+* 

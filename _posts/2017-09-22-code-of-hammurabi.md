@@ -16,4 +16,7 @@ author: Sammy Shin
 * Basalt was difficult to carve
   * advanced techniques and tools to carve
   * wealthy and revered significance
-* 
+  * basalt to mean eternity because of its resistance to wear
+* Writing is in cuneiform
+* First written laws describing consequences of actions
+  * EX: If you steal your hand gets cut off
