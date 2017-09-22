@@ -22,4 +22,4 @@ author: Sammy Shin
 # Form
 * large eyes to have the ability to look at the gods
 
-[votive]: https://www.flickr.com/photos/profzucker/15324643576/
+[votive]: http://echo.louisville.edu/login?url=http://vrc-web.louisville.edu/Jpegs/820/825-07.jpg
