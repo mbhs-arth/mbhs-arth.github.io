@@ -10,4 +10,10 @@ author: Sammy Shin
 * Basalt
 * Babylon (modern Iran)
 
-## 
+## The Code of Hammurabi
+* Image of power
+  * Depiction of Hammurabi given a staff and ring by a divine being (seen through rays of fire emitted by him)
+* Basalt was difficult to carve
+  * advanced techniques and tools to carve
+  * wealthy and revered significance
+* 

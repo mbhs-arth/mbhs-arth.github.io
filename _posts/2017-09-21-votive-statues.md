@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Temple and its Ziggurat
+title: Statues of Votive Figures
 date: 2017-09-21 00:15
 author: Sammy Shin
 ---
