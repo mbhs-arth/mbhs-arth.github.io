@@ -19,4 +19,8 @@ author: Sammy Shin
   * basalt to mean eternity because of its resistance to wear
 * Writing is in cuneiform
 * First written laws describing consequences of actions
-  * EX: If you steal your hand gets cut off
+  * EX: If you steal, your hand gets cut off
+
+![hammurabi]
+
+[hammurabi]: https://upload.wikimedia.org/wikipedia/commons/e/e5/Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png
