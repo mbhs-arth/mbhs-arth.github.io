@@ -19,4 +19,4 @@ author: Sammy Shin
 * Function is unclear, possibly procession
 * Used by ***patesi*** (priest-king)
 
-[standard]:https://en.wikipedia.org/wiki/Standard_of_Ur#/media/File:Standard_of_Ur_-_War.jpg
+[standard]: https://upload.wikimedia.org/wikipedia/commons/f/f9/Standard_of_Ur_-_War.jpg

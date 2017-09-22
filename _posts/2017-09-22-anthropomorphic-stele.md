@@ -13,4 +13,5 @@ author: Sammy Shin
 ## Anthropomorphic Stele  
 * Anthropomorphic - of or relating to humans, having human characteristics
   * stylized and abstract
-* 
+* Image of power
+  * possibly guard or protect the dead or etc
